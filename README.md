@@ -8,3 +8,5 @@ Daftar biodata Siswa Dicoding Academy
 - Angkatan 2020
 - Angkatan 2021
 - Angakatan 2022
+
+-Mereka adalah prodi-
